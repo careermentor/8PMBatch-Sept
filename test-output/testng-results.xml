@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-31T21:03:50 IST" name="Default suite" finished-at="2023-10-31T21:04:08 IST" duration-ms="18326">
+    <groups>
+    </groups>
+    <test started-at="2023-10-31T21:03:50 IST" name="Default test" finished-at="2023-10-31T21:04:08 IST" duration-ms="18326">
+      <class name="org.xyz.auto.fb.testcases.LoginScenario_DDF">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:03:50 IST" name="launchBrowser" finished-at="2023-10-31T21:03:54 IST" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginfunc(java.lang.String,java.lang.String)[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:03:54 IST" name="loginfunc" data-provider="ddfdata" finished-at="2023-10-31T21:04:02 IST" duration-ms="8789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:02 IST" name="closeBrowser" finished-at="2023-10-31T21:04:03 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:03 IST" name="launchBrowser" finished-at="2023-10-31T21:04:05 IST" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginfunc(java.lang.String,java.lang.String)[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:05 IST" name="loginfunc" data-provider="ddfdata" finished-at="2023-10-31T21:04:05 IST" duration-ms="324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:05 IST" name="closeBrowser" finished-at="2023-10-31T21:04:05 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:05 IST" name="launchBrowser" finished-at="2023-10-31T21:04:07 IST" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginfunc(java.lang.String,java.lang.String)[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:07 IST" name="loginfunc" data-provider="ddfdata" finished-at="2023-10-31T21:04:08 IST" duration-ms="482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.xyz.auto.fb.testcases.LoginScenario_DDF@5824a83d]" started-at="2023-10-31T21:04:08 IST" name="closeBrowser" finished-at="2023-10-31T21:04:08 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.xyz.auto.fb.testcases.LoginScenario_DDF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

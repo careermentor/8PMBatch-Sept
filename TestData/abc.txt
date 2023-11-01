@@ -1,0 +1,4 @@
+This is text file
+we are going to learn java program
+We will learn selenium very soon
+name=java
